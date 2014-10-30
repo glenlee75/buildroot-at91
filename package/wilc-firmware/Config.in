@@ -1,0 +1,6 @@
+config BR2_PACKAGE_WILC_FIRMWARE
+	bool "WILC-firmware"
+	help
+	  Firmware for the Atmel Wifi devices supported by the WILC1000
+	  kernel driver.
+
