@@ -5,13 +5,13 @@
 ################################################################################
 
 
-WILC_FIRMWARE_VERSION = 45c062a81e5c2c20666a899d4b3522e7633eefe8
+WILC_FIRMWARE_VERSION = 574387edfa61826da6990aa07c37aa70fa78c6d2
 WILC_FIRMWARE_SITE = https://github.com/linux4SC/wilc_firmware.git
 WILC_FIRMWARE_SITE_METHOD = git
 
 WILC_FIRMWARE_DRIVER_FILE += wilc1000_fw.bin
 WILC_FIRMWARE_DRIVER_FILE += wilc1000_ap_fw.bin
-WILC_FIRMWARE_DRIVER_FILE += wilc1000_p2p_concurrency_fw.bin
+WILC_FIRMWARE_DRIVER_FILE += wilc1000_p2p_fw.bin
 
 
 #WILC_FIRMWARE_LICENSE = PROPRIETARY
