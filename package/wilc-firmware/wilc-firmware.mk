@@ -6,7 +6,7 @@
 
 
 WILC_FIRMWARE_VERSION = 574387edfa61826da6990aa07c37aa70fa78c6d2
-WILC_FIRMWARE_SITE = https://github.com/linux4SC/wilc_firmware.git
+WILC_FIRMWARE_SITE = https://github.com/linux4sc-wilc3000/wilc_firmware.git
 WILC_FIRMWARE_SITE_METHOD = git
 
 WILC_FIRMWARE_DRIVER_FILE += wilc1000_fw.bin
